@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Proyek_Stefanus Gratilio</string>
+    <string name="item_1">Item 1</string>
+    <string name="textview">TextView</string>
+    <string name="stefanus_gratilio">Stefanus Gratilio</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="telegram">Telegram</string>
+    <string name="line">Line</string>
+    <string name="major">Major</string>
+    <string name="university">University</string>
+    <string name="stefanusuchiha269_gmail_com">: stefanusuchiha269@gmail.com</string>
+    <string name="_083822719079">: 083822719079</string>
+    <string name="stefanus_05">: stefanus_05</string>
+    <string name="line_stefanus_05">: stefanus.05</string>
+    <string name="informatics_engineering">: Informatics Engineering</string>
+    <string name="universitas_komputer_indonesia">: Universitas Komputer Indonesia</string>
+    <string name="province_name">Provinsi</string>
+    <string name="province_abstract">Abstract</string>
+    <string name="ibu_kota">Ibu Kota</string>
+    <string name="populasi">Populasi</string>
+    <string name="gubernur">Gubernur</string>
+    <string name="luas_daerah">Luas Daerah</string>
+    <string name="colon">:</string>
+    <string name="province_capital">Capital</string>
+    <string name="province_governor">Governor</string>
+    <string name="province_population">Population</string>
+    <string name="province_area">Area</string>
+    <string name="km_u00b2">km²</string>
+</resources>
